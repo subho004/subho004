@@ -1,4 +1,5 @@
-![Hello](https://github.com/subho004/readme-add/blob/main/photo_2021-10-01_19-39-36.jpg)
+![images](https://user-images.githubusercontent.com/91646273/135893457-3b516a84-86e8-41b4-89a3-bac2bed5af22.png)
+
 
 
 # Introduction 🚀
@@ -7,13 +8,14 @@ Hey everyone 👋 Myself Subhajit Hait of NSEC CSE 1st Year
 ## 💠 Basic Details
 **Name**- *Subhajit Hait*
 
-**City**- *Howrah*
+**City** 🏙️ 
+*Howrah*
+
+🌱 I’m currently learning everything 🤣
 
 
-<img src="https://img.icons8.com/bubbles/50/000000/kolkata.png"/>
 
-
-## 💠College Details
+## 💠College Details 🏢
 **College Name**- *NETAJI SUBHASH ENGINEERING COLLEGE*
 
 **College_City**- *Kolkata, Garia*
@@ -24,10 +26,10 @@ Hey everyone 👋 Myself Subhajit Hait of NSEC CSE 1st Year
  |---|---|
  |1.|Google Cloud|
  
- ## 💠Courses
- 1. Coursera
- 2. Udemy
- 3. Unacademy
+ ## 💠Hobby
+ 1. Reading
+ 2. Chess
+ 3. Exploring
 
 ## 💠Language
 - English
@@ -36,6 +38,9 @@ Hey everyone 👋 Myself Subhajit Hait of NSEC CSE 1st Year
 
 ## ✨Here's the link for my github account ✨
 [Click On this link](https://github.com/subho004/welcome.git)
+
+
+
 
 
 
