@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Myself Subhajit Hait, a Full Stack Developer from Kolkata,India 🇮🇳</h2>
+<h2 align="left">Hi 👋! I'm Subhajit Hait, a Full Stack Developer from Kolkata,India 🇮🇳</h2>
 
 ###
 
