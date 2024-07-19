@@ -19,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: generate snake.svg
+      - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -30,13 +30,21 @@ jobs:
           echo "Last run: $(date)" > last_run.txt
           git add last_run.txt
 
-      - name: Commit and push snake.svg
+      - name: Commit and stash changes if needed
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git pull --rebase # Pull the latest changes from the remote branch
           git add -A
           git commit -m "Generated snake.svg animation" || echo "No changes to commit"
+          git stash || echo "Nothing to stash"
+
+      - name: Pull latest changes and apply stashed changes
+        run: |
+          git pull --rebase
+          git stash pop || echo "No stashed changes"
+
+      - name: Push changes
+        run: |
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
