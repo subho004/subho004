@@ -34,8 +34,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase # Pull the latest changes from the remote branch
           git add -A
-          git commit -m "Generated snake.svg animation"
+          git commit -m "Generated snake.svg animation" || echo "No changes to commit"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
