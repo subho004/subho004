@@ -84,7 +84,7 @@
 ###
 
 <div align="center">
-   <a href="https://subho004.codevibes.in/" target="_blank">
+   <a href="https://subho004.tech/" target="_blank">
     <img src="https://github.com/subho004/subho004/blob/main/portfolio.png" width="52" height="40" alt="portfolio logo"  />
   </a>
   <a href="http://www.linkedin.com/in/subho004" target="_blank">
