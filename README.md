@@ -1,6 +1,8 @@
-<h2 align="left">Hi 👋! I'm Subhajit Hait, a Software Developer with AI & DevOps Experience from India 🇮🇳</h2>
+<h2 align="center">Hi 👋 I'm Subhajit Hait</h2>
 
-###
+<h3 align="center">
+Pragmatic software engineer building AI, backend systems, and cloud infrastructure.
+</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subho004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -109,9 +111,19 @@
 
 ###
 
-<p align="left">✨ I’m a Full Stack Developer (React, Typescript, ASP .NET Core, Azure CosmosDB, Material UI, NextJS, NodeJS, MongoDB, Tailwind css, sass) seeking a challenging role where I can apply and expand my technical skills, work on meaningful projects, and be part of a collaborative team driving positive change.<br></p>
 
-###
+<p align="left">
+I build AI systems and backend infrastructure for products that need to operate reliably at scale.<br><br>
+
+Over the last <b>3+ years</b>, I've worked across healthcare, compliance, and AI SaaS—building realtime systems, agentic workflows, graph-based AI pipelines, and cloud infrastructure using <b>FastAPI, Next.js, Kubernetes, Docker, AWS, and Azure</b>.<br><br>
+
+Currently, I'm building AI-driven risk and compliance systems using <b>graph reasoning, multi-agent architectures, and low-context LLM pipelines</b>.<br><br>
+
+I enjoy solving engineering problems at the intersection of <b>AI, distributed systems, backend engineering, and cloud infrastructure</b>, with a focus on building practical, production-ready software.<br><br>
+
+📖 Springer ICIDA 2024 Best Paper Author<br>
+</p>
+
 
 
 ###
