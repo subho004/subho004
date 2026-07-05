@@ -51,7 +51,7 @@ Instead of scattering experiments across dead repos, I run **[AI Forge Lab](http
 
 A self-built, static handbook covering classical ML and Graph ML from first principles — searchable HTML reader, MathJax equations, Mermaid diagrams, dark mode, zero build step, zero dependencies.
 
-**🔗 Live: [subho004.github.io/ml-graph-learning-notebook](https://subho004.github.io/ml-graph-learning-notebook/)**
+**🔗 Live:** [https://mlnotes.subhajithait.com/](https://mlnotes.subhajithait.com/)
 
 ---
 
